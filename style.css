@@ -1,0 +1,14 @@
+img {
+  float: right;
+}
+
+p {
+  text-align: left;
+  display: flex;
+  border: 100px;
+
+}
+body {
+  background-color: #ada397;
+
+}
