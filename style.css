@@ -1,14 +1,20 @@
+html {
+  background-color: darkgrey;
+}
 img {
   float: right;
 }
 
 p {
+  font-family: "Times New Roman", Georgia, Serif;
   text-align: left;
   display: flex;
   border: 100px;
+  padding: inherit;
 
 }
 body {
-  background-color: #ada397;
+  background-color: #ada390;
+  border-spacing: inherit;
 
 }
